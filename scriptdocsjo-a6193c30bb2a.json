@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scriptdocsjo",
+  "private_key_id": "a6193c30bb2ab3db28e508c1d20af51f72f493f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDG+O2FsECjHaF+\nDlGXaI83PGY6gDHMbDgOFj1cd3yu4MF+kUXYpKA3GZryIVkXbXUoQIQmvh4H4vzY\nKHp2MdZ+6kBZpeeFyP078U1v7fapOZssb7QwGb2bwJFhJouDNpZeqxJTWUD4YquP\nzjfUlMCKQjTVJ6dozcGgBY+St0uKxWRNcWgirUeTy3ZZerplvXEAXd9WQzX+MiIt\nR1TVAECaSzwRshsDtgvoCJne0JymSNDEMplXWBAlr1IgU2neBb3S5aPdCS9Jv/Nf\npM5kY0bzS1AYvpjcOEDyslLX5fz1CNE+CfXLwDOZ+18Ts25JgoPjN8AkSaoH0ff3\n+o7jIr6ZAgMBAAECggEAETAoCZZTERwySwrG3NjfFU8SCC/yjVWUZpAggxw90LgQ\n8wNu6JL5FaVwO4YqtXHCzwQ6vkOKYdVHkQ83G/58aGiJQE1LAaU+DfdvgHGqrw3v\nRBCOvOB+XwXssRskrmQw63LlAX76dDKG3kR60XH7q33iZT74kN7EYRPV5h9QJue0\n70vL0M+zkSqfcgmcRpcyvJ/TVbND+DQb/nMxTlAAU5a0mTUKb/D0HARFQf0GKYE1\nHSyraqYGybuK3n1bjeQUEJqnOAKZWS0HzJUmRmpE7wE3QvC6EokWWzvImAHWOkdU\n/jU20xBf74uz20TZc8H7BFuraHApFfxg/KPxF8TagQKBgQD44h4r1GC5u3pI5VEq\nuN1poIz9uXvO3AuvAmM9Yo7XhdUzpcckJVjit+uanxM8z4Reruk8gxpdM9Pyo+fZ\nBo1LEvDsXIHNAAoxJtQzaS5tMdUFKGVg0aqV7fqlXdZiw0bdl/Amq28bZRpsaDTM\nCaJZhabO04+xAaGPpX9KX9XIGQKBgQDMqXNqOHgMdSkupRHKUJoVUisbEqpJIGT3\nk5Yg7nJxt+FHDDkeSfA/1pR8gpDd4QyZFvDx08ZBtgjbwE5I4cBzID1Bby81TjWG\nddb+SjftOhfY2zh5brvdI+DOY3XcBCnF3PP5/ga+ZP8XMlPXXBQE112YmNdugFrK\nOynHVRV6gQKBgQC5DKcSP56LenG5sYdgFIPL/avXGwqLC+FEBqpzAczjQob7F8+x\neHNWXxm2pYBQPptVKwgQDgqUMeztBCFmpBB6OWMY2s9H9TeexBgTAambVunkI9z8\n1+fWAlPSkKrOVBNkv4u3tM+vtsSmxfQ7oQ4tMcqNDZBRM71EaPD0A72YQQKBgQCE\nAXvm9FtCNcOFSYUrCEgKHoCdKrHZDuLw6Sm5PfNlM+RDLjgdODWVB3Oox5Jm+oRk\nre5lHGJQ+ffGvcgArFO0LgQ0k2FQsYxGmPU9+WMPSRwejG9lq63SmhSjKnXXnnvP\nGo/nHBj/byc1sAlx6/shkEPXbCXwKSvmKrjs0A1VgQKBgAlNOR6dETrobV0eTk5l\nHcUKppY35BYr8Ci/BU8XYDYHRO7B7tiF3lcT8ZjHmfPRG6l5NwIfeP0rFlvWOkI1\nlRD3YaSCwKC+WNs9f7eSBJpJ146ZtZeriv7Il8ifpnbC8DfiaCiuaTEIAw1d+Ijh\nXM8N2g+OEV/NorwdXZ83rRJn\n-----END PRIVATE KEY-----\n",
+  "client_email": "minhacontadeservico@scriptdocsjo.iam.gserviceaccount.com",
+  "client_id": "106344681013783206035",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/minhacontadeservico%40scriptdocsjo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
